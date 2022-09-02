@@ -1,2 +1,2 @@
 #!/bin/bash
-chown Josephine:staff *
+chgrp school hello
